@@ -1,4 +1,4 @@
-# Olá! Eu sou o Emannuel Oliveira Pedreira 👋
+# Hi! I'm Emannuel Oliveira Pedreira 👋
 
 <div align="center">
   <a href="https://github.com/emannuelop">
@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emannuelop&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Tecnologias que eu uso no meu dia 👨‍💻
+## Technologies I use in my day 👨‍💻
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-## Meus contatos 📞
+## My contacts 📞
 
 <div align="center">
   <a href="mailto:emannuelop22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +25,7 @@
   <a href="https://github.com/emannuelop"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-## Sugestão de playlist do spotify 🎵
+## spotify playlist suggestion 🎵
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/0k11EF7KJRNays5CfJOzbV?si=32ac1d89263443f0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>

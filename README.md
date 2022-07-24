@@ -28,7 +28,7 @@
 ## Sugestão de playlist do spotify 🎵
 
 <div align="center">
-  <a href = "https://open.spotify.com/playlist/0k11EF7KJRNays5CfJOzbV?si=32ac1d89263443f0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/0k11EF7KJRNays5CfJOzbV?si=32ac1d89263443f0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
 <div align="center">

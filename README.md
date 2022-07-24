@@ -25,7 +25,7 @@
   <a href="https://github.com/emannuelop"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-## spotify playlist suggestion 🎵
+## Spotify playlist suggestion 🎵
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/0k11EF7KJRNays5CfJOzbV?si=32ac1d89263443f0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>

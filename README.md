@@ -14,7 +14,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <br/><br/>
   
-  **I really like technology, I'm always ready for new experiences in technology. I want to change people's lives through technology.**
+  _**I really like technology, I'm always ready for new experiences in technology. I want to change people's lives through technology.**_
   
 </div>
 
